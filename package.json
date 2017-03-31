@@ -2,7 +2,7 @@
     "name": "theme-nofun",
     "displayName": "nofun",
     "description": "Restrained syntax highlighting for VSCode",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "jedrichards",
     "engines": {
         "vscode": "^1.10.0"

@@ -1,4 +1,4 @@
-# theme-nofun
+# :no_entry_sign: theme-nofun
 
 ![screenshot](https://raw.githubusercontent.com/jedrichards/theme-nofun/master/screenshot.png)
 
