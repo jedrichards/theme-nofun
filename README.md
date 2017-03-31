@@ -2,6 +2,8 @@
 
 Reduced cognitive burden syntax highlighting for VSCode.
 
+![screenshot](https://raw.githubusercontent.com/jedrichards/theme-nofun/master/screenshot.png)
+
 [Changelog](./CHANGELOG.md)
 
 ## Motivation
