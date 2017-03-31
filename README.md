@@ -16,7 +16,7 @@ Everything in moderation however, so while abstaining from colourising the bulk 
 
 - [Nofrils Vim Colorscheme](https://github.com/robertmeta/nofrils)
 - [Nothrill Atom Syntax Theme](https://atom.io/themes/nothrill-dark-syntax)
-- [Minimal Colours VSCode Theme](https://marketplace.visualstudio.com/items?itemName=andradei.minimal-colors)
+- [Minimal Colors VSCode Theme](https://marketplace.visualstudio.com/items?itemName=andradei.minimal-colors)
 
 ## References
 
