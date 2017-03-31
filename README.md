@@ -2,7 +2,7 @@
 
 ![screenshot](https://raw.githubusercontent.com/jedrichards/theme-nofun/master/screenshot.png)
 
-> Reduced cognitive burden syntax highlighting for VSCode
+> Restrained syntax highlighting for VSCode
 
 > [Changelog](./CHANGELOG.md)
 
