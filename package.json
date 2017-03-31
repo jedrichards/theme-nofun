@@ -1,0 +1,22 @@
+{
+    "name": "theme-nofun",
+    "displayName": "nofun",
+    "description": "Reduced cognitive burden syntax highlighting for VSCode",
+    "version": "1.0.0",
+    "publisher": "jedrichards",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "nofun",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nofun.tmTheme"
+            }
+        ]
+    }
+}
